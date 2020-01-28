@@ -27,11 +27,8 @@ public class Health : MonoBehaviour
         if (health <= 0)
         {
          
-            isDead = true;
             anim.SetBool("isDead", true);
-            TimeForAnimToPlayOut();
-
-
+            StartCoroutine(TimeForAnimToPlayOut());
         }
     }
 

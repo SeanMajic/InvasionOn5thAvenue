@@ -1,12 +1,22 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Health : MonoBehaviour
 {
 
-    [SerializeField] float health = 100f;
+    Animator anim;
 
+    [SerializeField] float health = 100f;
+    [SerializeField] float deathAnimWaitTime = 1f;
+
+    bool isDead = false;
+
+    private void Start()
+    {
+        anim = GetComponent<Animator>();
+    }
 
 
     public void DealDamage(float damage)
@@ -16,11 +26,19 @@ public class Health : MonoBehaviour
 
         if (health <= 0)
         {
-            Destroy(gameObject);
+         
+            isDead = true;
+            anim.SetBool("isDead", true);
+            TimeForAnimToPlayOut();
+
 
         }
     }
 
-   
+    IEnumerator TimeForAnimToPlayOut()
+    {
+        yield return new WaitForSeconds(deathAnimWaitTime);
+        Destroy(gameObject);
     }
+}
 

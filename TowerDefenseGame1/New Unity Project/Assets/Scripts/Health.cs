@@ -8,25 +8,28 @@ public class Health : MonoBehaviour
 
     Animator anim;
 
-    [SerializeField] float health = 100f;
+    [SerializeField] float enemyHealth = 100f;
     [SerializeField] float deathAnimWaitTime = 1f;
 
-    bool isDead = false;
+    public bool isDead = false;
 
     private void Start()
     {
         anim = GetComponent<Animator>();
+        isDead = false;
+
+
     }
 
 
     public void DealDamage(float damage)
     {
 
-        health -= damage;
+        enemyHealth -= damage;
 
-        if (health <= 0)
+        if (enemyHealth <= 0)
         {
-         
+            isDead = true;
             anim.SetBool("isDead", true);
             StartCoroutine(TimeForAnimToPlayOut());
         }

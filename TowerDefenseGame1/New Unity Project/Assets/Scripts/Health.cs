@@ -9,7 +9,7 @@ public class Health : MonoBehaviour
     Animator anim;
 
     [SerializeField] float enemyHealth = 100f;
-    [SerializeField] float deathAnimWaitTime = 1f;
+    [SerializeField] float deathAnimWaitTime = 2f;
 
     public bool isDead = false;
 

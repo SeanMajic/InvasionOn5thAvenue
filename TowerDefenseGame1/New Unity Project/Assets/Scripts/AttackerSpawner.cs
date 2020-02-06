@@ -6,7 +6,6 @@ public class AttackerSpawner : MonoBehaviour
 {
 
     bool spawn = true;
-    [SerializeField] GameObject attacker;
     [SerializeField] float minSpawnDelay = 1f;
     [SerializeField] float maxSpawnDelay = 5f;
     [SerializeField] Attacker attackerPrefab;
@@ -26,7 +25,8 @@ public class AttackerSpawner : MonoBehaviour
 
     private void SpawnAttacker()
     {
-        Instantiate(attackerPrefab, transform.position, transform.rotation);
+        Attacker newAttacker = Instantiate(attackerPrefab, transform.position, transform.rotation) as Attacker;
+        newAttacker.transform.parent = transform;
     }
 
     // Update is called once per frame

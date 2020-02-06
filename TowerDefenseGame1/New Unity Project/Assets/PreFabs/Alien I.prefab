@@ -165,5 +165,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyHealth: 100
-  deathAnimWaitTime: 0.75
+  deathAnimWaitTime: 2
   isDead: 0

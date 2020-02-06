@@ -9,6 +9,7 @@ public class DollarDisplay : MonoBehaviour
     [SerializeField] int dollars = 100;
     Text dollarText;
 
+
     void Start()
     {
         dollarText = GetComponent<Text>();
@@ -18,6 +19,11 @@ public class DollarDisplay : MonoBehaviour
     private void UpdateDisplay()
     {
         dollarText.text = dollars.ToString();
+    }
+
+    public bool HaveEnoughDollars(int amount)
+    {
+        return dollars >= amount;
     }
 
     public void AddDollars(int amount)

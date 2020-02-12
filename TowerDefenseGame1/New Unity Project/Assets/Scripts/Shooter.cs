@@ -8,8 +8,14 @@ public class Shooter : MonoBehaviour
     [SerializeField] GameObject projectile, gun;
     AttackerSpawner myLaneSpawner;
 
+    Animator anim;
+
+
+
     private void Start()
     {
+
+        anim = GetComponent<Animator>();
         SetLaneSpawner();
     }
 
@@ -17,14 +23,11 @@ public class Shooter : MonoBehaviour
     {
         if(IsAttackerInLane())
         {
-            Debug.Log("Shoot");
-            //TODO change anim state to shooting
+            anim.SetBool("isShooting", true);
         }
         else
         {
-            Debug.Log("Idle");
-
-            //TODO change anim state to idle
+            anim.SetBool("isShooting", false);
         }
     }
 
@@ -32,14 +35,18 @@ public class Shooter : MonoBehaviour
     {
         AttackerSpawner[] spawners = FindObjectsOfType<AttackerSpawner>();
 
-        foreach(AttackerSpawner spawner in spawners)
+
+        foreach (AttackerSpawner spawner in spawners)
         {
             bool IsCloseEnough =
-                (Mathf.Abs(spawner.transform.position.y - transform.position.y)
-                <= Mathf.Epsilon);
+                 (Mathf.Abs(spawner.transform.position.y - transform.position.y) <= Mathf.Epsilon);
             if (IsCloseEnough)
             {
                 myLaneSpawner = spawner;
+            }
+            else
+            {
+                Debug.Log("isCloseEnough wasn't true");
             }
         }
     }
@@ -47,7 +54,7 @@ public class Shooter : MonoBehaviour
     private bool IsAttackerInLane()
     {
 
-        if(myLaneSpawner.transform.childCount <=0)
+        if (myLaneSpawner.transform.childCount <=0)
         {
             return false;
         }
@@ -56,13 +63,13 @@ public class Shooter : MonoBehaviour
         {
             return true;
         }
-        // if my lane spawner child count is <=0 then return false
-        // return false
-        
+      
+
+
     }
 
     public void Fire()
     {
-        Instantiate(projectile, gun.transform.position, Quaternion.Euler(0, 0, 0));
+        Instantiate(projectile, gun.transform.position, transform.rotation);
     }
 }

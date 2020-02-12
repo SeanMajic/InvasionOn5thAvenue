@@ -30,9 +30,6 @@ public class DefenderSpawner : MonoBehaviour
         }
 
 
-        //if we have enough dollars
-          //spawn defender
-            //spend the dollars
     }
 
     private Vector2 GetSquareClicked()
@@ -50,11 +47,12 @@ public class DefenderSpawner : MonoBehaviour
         return new Vector2(newX, newY);
     }
 
-    private void SpawnDefender(Vector2 worldPos)
+    private void SpawnDefender(Vector2 roundedPos)
     {
 
 
-        Defender newDefender = Instantiate(defender, worldPos, Quaternion.identity);
+        Defender newDefender = Instantiate(defender, roundedPos, Quaternion.identity) as Defender;
+        Debug.Log(roundedPos);
 
 
     }

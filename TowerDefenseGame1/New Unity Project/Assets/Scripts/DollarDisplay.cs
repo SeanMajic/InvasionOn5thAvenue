@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class DollarDisplay : MonoBehaviour
 {
 
-    [SerializeField] int dollars = 100;
+    [SerializeField] int dollars = 10000;
     Text dollarText;
 
 

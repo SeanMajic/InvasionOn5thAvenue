@@ -44,10 +44,7 @@ public class Shooter : MonoBehaviour
             {
                 myLaneSpawner = spawner;
             }
-            else
-            {
-                Debug.Log("isCloseEnough wasn't true");
-            }
+
         }
     }
 
@@ -70,6 +67,6 @@ public class Shooter : MonoBehaviour
 
     public void Fire()
     {
-        Instantiate(projectile, gun.transform.position, transform.rotation);
+        Instantiate(projectile, gun.transform.position, Quaternion.identity);
     }
 }

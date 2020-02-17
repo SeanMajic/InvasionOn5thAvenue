@@ -196,6 +196,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fcf5329eb2fa4ce080256758ffb835d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyHealth: 150
+  enemyHealth: 200
   deathAnimWaitTime: 0.75
   isDead: 0

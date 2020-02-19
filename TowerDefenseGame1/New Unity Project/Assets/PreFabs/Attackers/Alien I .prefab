@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 8155165988093963814}
   - component: {fileID: 9123967102191512468}
   - component: {fileID: 6274506860733285171}
+  - component: {fileID: 693561506061084591}
   m_Layer: 0
   m_Name: 'Alien I '
   m_TagString: Untagged
@@ -196,6 +197,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fcf5329eb2fa4ce080256758ffb835d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyHealth: 200
+  health: 300
   deathAnimWaitTime: 0.75
-  isDead: 0
+--- !u!114 &693561506061084591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4980386441730568774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8956755388145476f8479768f6790809, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

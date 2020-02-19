@@ -11,14 +11,11 @@ public class Health : MonoBehaviour
     [SerializeField] float enemyHealth = 100f;
     [SerializeField] float deathAnimWaitTime = 2f;
 
-    public bool isDead = false;
+
 
     private void Start()
     {
         anim = GetComponent<Animator>();
-        isDead = false;
-
-
     }
 
 
@@ -29,7 +26,7 @@ public class Health : MonoBehaviour
 
         if (enemyHealth <= 0)
         {
-            isDead = true;
+
             anim.SetBool("isDead", true);
             StartCoroutine(TimeForAnimToPlayOut());
         }

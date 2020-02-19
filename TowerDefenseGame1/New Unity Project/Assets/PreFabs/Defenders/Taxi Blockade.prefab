@@ -4764,6 +4764,7 @@ GameObject:
   - component: {fileID: 824459478742725265}
   - component: {fileID: 5236122182428210564}
   - component: {fileID: 9058706203879824687}
+  - component: {fileID: 611184567}
   m_Layer: 0
   m_Name: Taxi Blockade
   m_TagString: Untagged
@@ -4810,7 +4811,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.009100556, y: 0.036401987}
@@ -4845,6 +4846,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &611184567
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 824459478742725270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fcf5329eb2fa4ce080256758ffb835d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 200
+  deathAnimWaitTime: 2
 --- !u!1 &824459479029511481
 GameObject:
   m_ObjectHideFlags: 0

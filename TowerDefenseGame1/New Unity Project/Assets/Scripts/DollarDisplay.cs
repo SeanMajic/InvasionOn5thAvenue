@@ -8,6 +8,7 @@ public class DollarDisplay : MonoBehaviour
 
     [SerializeField] int dollars = 10000;
     Text dollarText;
+    
 
 
     void Start()

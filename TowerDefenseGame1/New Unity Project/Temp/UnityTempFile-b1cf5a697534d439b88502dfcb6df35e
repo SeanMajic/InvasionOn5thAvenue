@@ -298,6 +298,7 @@
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
 "Assets/Scripts/AlienI.cs"
+"Assets/Scripts/AlienII.cs"
 "Assets/Scripts/Attacker.cs"
 "Assets/Scripts/AttackerSpawner.cs"
 "Assets/Scripts/Defender.cs"
@@ -309,3 +310,4 @@
 "Assets/Scripts/MusicPlayer.cs"
 "Assets/Scripts/Projectile.cs"
 "Assets/Scripts/Shooter.cs"
+"Assets/Scripts/TaxiBlockade.cs"

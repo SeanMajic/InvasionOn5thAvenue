@@ -82,8 +82,8 @@ CapsuleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.1148234, y: 0.06628144}
-  m_Size: {x: 0.63778806, y: 0.63778853}
+  m_Offset: {x: -0.26773596, y: 0.040777683}
+  m_Size: {x: 0.6207857, y: 0.6207857}
   m_Direction: 0
 --- !u!50 &1137322128550714354
 Rigidbody2D:
@@ -118,8 +118,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fcf5329eb2fa4ce080256758ffb835d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyHealth: 100
-  deathAnimWaitTime: 2
+  enemyHealth: 250
+  deathAnimWaitTime: 0.5
 --- !u!114 &1137322128550714352
 MonoBehaviour:
   m_ObjectHideFlags: 0

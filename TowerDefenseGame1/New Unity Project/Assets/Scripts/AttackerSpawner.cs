@@ -10,7 +10,8 @@ public class AttackerSpawner : MonoBehaviour
     [SerializeField] float maxSpawnDelay = 9f;
     [SerializeField] Attacker[] attackerArray;
 
-    bool spawn = true;
+
+    bool spawn = true;  
 
     // Start is called before the first frame update
     IEnumerator Start()
@@ -20,15 +21,24 @@ public class AttackerSpawner : MonoBehaviour
         {
             yield return new WaitForSeconds(Random.Range(minSpawnDelay, maxSpawnDelay));
             SpawnAttacker();
+         
         }
 
 
+    }
+
+    public void StopSpawning()
+    {
+        spawn = false;
     }
 
     private void SpawnAttacker()
     {
         var attackerIndex = Random.Range(0, attackerArray.Length);
         Spawn(attackerArray[attackerIndex]);
+
+
+
     }
 
     private void Spawn(Attacker myAttacker)
@@ -37,5 +47,11 @@ public class AttackerSpawner : MonoBehaviour
           (myAttacker, transform.position, transform.rotation)
           as Attacker;
         newAttacker.transform.parent = transform;
+
+
     }
+
+ 
+
+  
 }

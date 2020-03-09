@@ -6,6 +6,19 @@ public class Defender : MonoBehaviour
 {
     [SerializeField] int dollarCost = 100;
 
+    GameHealth gameHealth;
+
+   public bool gameIsOver = false;
+
+    Animator anim;
+
+    private void Start()
+    {
+        anim = GetComponent<Animator>();
+        gameHealth = GetComponent<GameHealth>();
+    
+
+    }
 
     public int GetDollarCost()
     {
@@ -18,6 +31,12 @@ public class Defender : MonoBehaviour
 
     }
 
-    
+   public void LoseDeathAnimation()
+    {
 
+        
+            anim.SetBool("isDead", true);
+        
+ 
+    } 
 }

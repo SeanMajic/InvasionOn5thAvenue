@@ -9,11 +9,14 @@ public class GameHealth : MonoBehaviour
     Text healthText;
     [SerializeField] int gameHealth = 10;
     [SerializeField] int damage = 1;
-  
+   // [SerializeField] float defenderDeathAnim = 5f;
+    public bool gameIsOver = false;
+    Animator anim;
 
     private void Start()
     {
         healthText = GetComponent<Text>();
+        FindObjectOfType<Animator>();
         UpdateDisplay();
     }
 
@@ -29,9 +32,26 @@ public class GameHealth : MonoBehaviour
 
         if (gameHealth <= 0)
         {
-            FindObjectOfType<LevelLoader>().LoadYouLose();
+            GetComponent<Defender>().LoseDeathAnimation();
+           // StartCoroutine(WaitForDefenderDeathAnimToPlayOut());
+
         }
     }
 
-   
+    /*  IEnumerator WaitForDefenderDeathAnimToPlayOut()
+     {
+         yield return new WaitForSeconds(defenderDeathAnim);
+         FindObjectOfType<LevelLoader>().LoadYouLose();
+     }
+
+    private void LoseDeathAnimation()
+     {
+
+         if (gameIsOver == true)
+         {
+             anim.SetBool("isDead", true);
+         }
+
+     } */
+
 }

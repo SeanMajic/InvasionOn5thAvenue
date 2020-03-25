@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -6,20 +7,24 @@ using UnityEngine.UI;
 public class GameHealth : MonoBehaviour
 {
 
+
+
     Text healthText;
-    [SerializeField] int gameHealth = 10;
+    [SerializeField] public int gameHealth = 10;
     [SerializeField] int damage = 1;
-   // [SerializeField] float defenderDeathAnim = 5f;
-    public bool gameIsOver = false;
+    [SerializeField] float defenderDeathAnim = 5f;
+
+
+
+
     Animator anim;
 
     private void Start()
     {
         healthText = GetComponent<Text>();
-        FindObjectOfType<Animator>();
         UpdateDisplay();
     }
-
+        
     private void UpdateDisplay()
     {
         healthText.text = gameHealth.ToString();
@@ -32,26 +37,21 @@ public class GameHealth : MonoBehaviour
 
         if (gameHealth <= 0)
         {
-            GetComponent<Defender>().LoseDeathAnimation();
-           // StartCoroutine(WaitForDefenderDeathAnimToPlayOut());
-
+            FindObjectOfType<Defender>().FindAndKillAllDefenders();
+            StartCoroutine(WaitForDefenderDeathAnimToPlayOut());
         }
+        
     }
 
-    /*  IEnumerator WaitForDefenderDeathAnimToPlayOut()
+  
+
+
+    IEnumerator WaitForDefenderDeathAnimToPlayOut()
      {
          yield return new WaitForSeconds(defenderDeathAnim);
-         FindObjectOfType<LevelLoader>().LoadYouLose();
-     }
+        FindObjectOfType<LevelLoader>().LoadYouLose();
+    } 
 
-    private void LoseDeathAnimation()
-     {
-
-         if (gameIsOver == true)
-         {
-             anim.SetBool("isDead", true);
-         }
-
-     } */
+ 
 
 }

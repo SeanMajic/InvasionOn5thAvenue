@@ -5,19 +5,13 @@ using UnityEngine;
 public class Defender : MonoBehaviour
 {
     [SerializeField] int dollarCost = 100;
-
-    GameHealth gameHealth;
-
-   public bool gameIsOver = false;
-
     Animator anim;
 
-    private void Start()
+  
+
+    private void Update()
     {
         anim = GetComponent<Animator>();
-        gameHealth = GetComponent<GameHealth>();
-    
-
     }
 
     public int GetDollarCost()
@@ -31,12 +25,16 @@ public class Defender : MonoBehaviour
 
     }
 
-   public void LoseDeathAnimation()
+    public void FindAndKillAllDefenders()
     {
 
-        
+
+        GameObject[] defenders = GameObject.FindGameObjectsWithTag("Defender");
+        foreach (GameObject defender in defenders)
+        {
             anim.SetBool("isDead", true);
-        
- 
-    } 
+        }
+
+    }
+
 }

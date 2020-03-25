@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -7,7 +8,8 @@ public class GameTimer : MonoBehaviour
 {
     [Tooltip("Timer in SECONDS")]
     [SerializeField] float levelTime = 10f;
-    bool triggeredLevelFinished = false; 
+    public bool triggeredLevelFinished = false;
+
 
     void Update()
     {
@@ -20,5 +22,9 @@ public class GameTimer : MonoBehaviour
             FindObjectOfType<LevelController>().LevelTimerFinished();
             triggeredLevelFinished = true;
         }
+     
     }
+
+
+
 }

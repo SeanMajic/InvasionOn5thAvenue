@@ -6,6 +6,7 @@ using UnityEngine;
 public class LevelController : MonoBehaviour
 {
     [SerializeField] GameObject waveCompleteLabel;
+    [SerializeField] GameObject loseLostLabel;
     int numberOfAttackers = 0;
     bool levelTimeFinished = false;
     [SerializeField] float timeUntillWaveCompleteSoundPlays = 2f;
@@ -13,6 +14,7 @@ public class LevelController : MonoBehaviour
     private void Start()
     {
         waveCompleteLabel.SetActive(false);
+        loseLostLabel.SetActive(false);
     }
 
     public void AttackerSpawned()
@@ -36,6 +38,12 @@ public class LevelController : MonoBehaviour
         GetComponent<AudioSource>().Play();
         yield return new WaitForSeconds(timeUntillWaveCompleteSoundPlays);
         FindObjectOfType<LevelLoader>().LoadNextScene();
+    }
+
+    public void HandleLoseCondition()
+    {
+        loseLostLabel.SetActive(true);
+      // Time.timeScale = 0;
     }
 
     public void LevelTimerFinished()

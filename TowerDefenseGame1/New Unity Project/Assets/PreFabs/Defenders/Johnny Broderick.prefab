@@ -118,6 +118,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6570445342287468635}
+  - component: {fileID: 7302700130284286892}
   - component: {fileID: 6570445342287468634}
   - component: {fileID: 6570445342287468633}
   - component: {fileID: 8221417246617826380}
@@ -125,7 +126,7 @@ GameObject:
   - component: {fileID: 1682738636}
   m_Layer: 0
   m_Name: Johnny Broderick
-  m_TagString: Untagged
+  m_TagString: Defender
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -146,6 +147,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7302700130284286892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6570445342287468637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0482dcb1e56814be4810bb90f623fd5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameHealth: {fileID: 0}
+  defender: {fileID: 0}
 --- !u!114 &6570445342287468634
 MonoBehaviour:
   m_ObjectHideFlags: 0

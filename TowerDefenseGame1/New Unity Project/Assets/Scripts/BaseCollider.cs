@@ -7,5 +7,6 @@ public class BaseCollider : MonoBehaviour
     private void OnTriggerEnter2D()
     {
         FindObjectOfType<GameHealth>().TakeLife();
+
     }
 }

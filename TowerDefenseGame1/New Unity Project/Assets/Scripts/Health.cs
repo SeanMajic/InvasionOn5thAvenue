@@ -12,30 +12,31 @@ public class Health : MonoBehaviour
     [SerializeField] float deathAnimWaitTime = 2f;
 
 
-
     private void Start()
     {
         anim = GetComponent<Animator>();
+
     }
 
+ 
 
-    public void DealDamage(float damage)
-    {
-
-        enemyHealth -= damage;
-
-        if (enemyHealth <= 0)
+        public void DealDamage(float damage)
         {
 
-            anim.SetBool("isDead", true);
-            StartCoroutine(TimeForAnimToPlayOut());
+            enemyHealth -= damage;
+
+            if (enemyHealth <= 0)
+            {
+
+                anim.SetBool("isDead", true);
+                StartCoroutine(TimeForAnimToPlayOut());
+            }
+        }
+
+        IEnumerator TimeForAnimToPlayOut()
+        {
+            yield return new WaitForSeconds(deathAnimWaitTime);
+            Destroy(gameObject);
         }
     }
-
-    IEnumerator TimeForAnimToPlayOut()
-    {
-        yield return new WaitForSeconds(deathAnimWaitTime);
-        Destroy(gameObject);
-    }
-}
 

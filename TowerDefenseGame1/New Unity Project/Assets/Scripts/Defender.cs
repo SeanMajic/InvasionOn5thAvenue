@@ -1,17 +1,18 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Defender : MonoBehaviour
 {
     [SerializeField] int dollarCost = 100;
     Animator anim;
 
-  
+    public Defender()
+    {
+        
+    }
 
     private void Update()
     {
-        anim = GetComponent<Animator>();
+        
     }
 
     public int GetDollarCost()
@@ -22,19 +23,10 @@ public class Defender : MonoBehaviour
     public void AddDollars(int amount)
     {
         FindObjectOfType<DollarDisplay>().AddDollars(amount);
-
     }
 
-    public void FindAndKillAllDefenders()
+    public void KillDefender()
     {
-
-
-        GameObject[] defenders = GameObject.FindGameObjectsWithTag("Defender");
-        foreach (GameObject defender in defenders)
-        {
-            anim.SetBool("isDead", true);
-        }
-
+        GetComponent<Animator>().SetBool("isDead", true);
     }
-
 }

@@ -1,0 +1,1626 @@
+fileFormatVersion: 2
+guid: 73811b770e82e4e72bf957bdaf93b78d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4572117593832027842
+    second: ambulance_E.png
+  - first:
+      213: -8594685041805753608
+    second: ambulance_N.png
+  - first:
+      213: 5214613989798836118
+    second: ambulance_NE.png
+  - first:
+      213: 6681152519906720444
+    second: ambulance_NED.png
+  - first:
+      213: 5398668071279861562
+    second: ambulance_NEU.png
+  - first:
+      213: 3975920103938943658
+    second: ambulance_NW.png
+  - first:
+      213: 1116137619409655941
+    second: ambulance_NWD.png
+  - first:
+      213: 7428376519286452605
+    second: ambulance_NWU.png
+  - first:
+      213: -5346022076301554424
+    second: ambulance_S.png
+  - first:
+      213: -7406938397401284170
+    second: ambulance_SE.png
+  - first:
+      213: 4049250360045678459
+    second: ambulance_SED.png
+  - first:
+      213: 2698633438678783525
+    second: ambulance_SEU.png
+  - first:
+      213: 6710433674967342016
+    second: ambulance_SW.png
+  - first:
+      213: 5250309150514627221
+    second: ambulance_SWD.png
+  - first:
+      213: 2942279086188605646
+    second: ambulance_SWU.png
+  - first:
+      213: 5698152924356439473
+    second: ambulance_W.png
+  - first:
+      213: 2951382323632808049
+    second: garbage_E.png
+  - first:
+      213: 3510487044537013086
+    second: garbage_N.png
+  - first:
+      213: -6603622728275179074
+    second: garbage_NE.png
+  - first:
+      213: -3759530714858169676
+    second: garbage_NED.png
+  - first:
+      213: -8605016212079920170
+    second: garbage_NEU.png
+  - first:
+      213: 738048093975561632
+    second: garbage_NW.png
+  - first:
+      213: -6757306828572124870
+    second: garbage_NWD.png
+  - first:
+      213: 6790886006536216554
+    second: garbage_NWU.png
+  - first:
+      213: 6913591805577056116
+    second: garbage_S.png
+  - first:
+      213: 7702031118601921629
+    second: garbage_SE.png
+  - first:
+      213: 2419526631511431280
+    second: garbage_SED.png
+  - first:
+      213: 2837313149785007458
+    second: garbage_SEU.png
+  - first:
+      213: -3757692580421161446
+    second: garbage_SW.png
+  - first:
+      213: -948479923987190193
+    second: garbage_SWD.png
+  - first:
+      213: -2515725335686830061
+    second: garbage_SWU.png
+  - first:
+      213: -4340366200806216038
+    second: garbage_W.png
+  - first:
+      213: 8363326375609891206
+    second: police_E.png
+  - first:
+      213: 8996628398244623070
+    second: police_N.png
+  - first:
+      213: -5537233539527244015
+    second: police_NE.png
+  - first:
+      213: -2073461098845673401
+    second: police_NED.png
+  - first:
+      213: 5244528056435476098
+    second: police_NEU.png
+  - first:
+      213: 8886089069998908012
+    second: police_NW.png
+  - first:
+      213: 5352165981089956486
+    second: police_NWD.png
+  - first:
+      213: -6520207571618725942
+    second: police_NWU.png
+  - first:
+      213: -5825054207992032760
+    second: police_S.png
+  - first:
+      213: 8890254440715672268
+    second: police_SE.png
+  - first:
+      213: 3456935152702308262
+    second: police_SED.png
+  - first:
+      213: -5892282988247484231
+    second: police_SEU.png
+  - first:
+      213: -6116352067920749445
+    second: police_SW.png
+  - first:
+      213: 7108931396835435823
+    second: police_SWD.png
+  - first:
+      213: 8608133791545906334
+    second: police_SWU.png
+  - first:
+      213: 4266607700675749439
+    second: police_W.png
+  - first:
+      213: 1755561128042130229
+    second: taxi_E.png
+  - first:
+      213: 760849053577967114
+    second: taxi_N.png
+  - first:
+      213: 7180524213139562905
+    second: taxi_NE.png
+  - first:
+      213: 1783150634329619200
+    second: taxi_NED.png
+  - first:
+      213: -1762682380991731779
+    second: taxi_NEU.png
+  - first:
+      213: 6591408750610169491
+    second: taxi_NW.png
+  - first:
+      213: 5247678270526623967
+    second: taxi_NWD.png
+  - first:
+      213: -7749616215681557304
+    second: taxi_NWU.png
+  - first:
+      213: -6512306417001723330
+    second: taxi_S.png
+  - first:
+      213: 9175505662966493398
+    second: taxi_SE.png
+  - first:
+      213: -7729141183897672071
+    second: taxi_SED.png
+  - first:
+      213: 1772463204138784389
+    second: taxi_SEU.png
+  - first:
+      213: -3860348456423298621
+    second: taxi_SW.png
+  - first:
+      213: -9052081489793101820
+    second: taxi_SWD.png
+  - first:
+      213: -6131279889329210113
+    second: taxi_SWU.png
+  - first:
+      213: -7349791229794520218
+    second: taxi_W.png
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ambulance_E.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 34
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02f88d60d47b4e09abc24b3815ddff2
+      internalID: -4572117593832027842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_N.png
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 23
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbbc7e02312941ff86b84c434dd5ee5
+      internalID: -8594685041805753608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_NE.png
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 47
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6c2fa3c4ed7486e98354b6e22647c5
+      internalID: 5214613989798836118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_NED.png
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 78
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77a9b45c3f584208a12bf7c0bf59e8d
+      internalID: 6681152519906720444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_NEU.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58170db8c8ce5416ab3ae9e24a056c6d
+      internalID: 5398668071279861562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_NW.png
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 106
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcb6de54748c4ed985d0c21ba9baa08
+      internalID: 3975920103938943658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_NWD.png
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 188
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3123acee56a4f63b19b8c2133f5fe2
+      internalID: 1116137619409655941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_NWU.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392f057995a264d31a53e35abf1711ba
+      internalID: 7428376519286452605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_S.png
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 50
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31e9389bd3444d91b845f35b4c70466
+      internalID: -5346022076301554424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_SE.png
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 185
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7825aeb37b78440a99cabce88d4951f
+      internalID: -7406938397401284170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_SED.png
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 216
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d945e7b75cf24edcad4ff637ba5e7ba
+      internalID: 4049250360045678459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_SEU.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4391ff2bd4dd04fa09200c48a6ced0a0
+      internalID: 2698633438678783525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_SW.png
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 220
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4af215f766f404383b61fd266d5c23
+      internalID: 6710433674967342016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_SWD.png
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 145
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d16f844948a4ca287d459ec2bf98a2
+      internalID: 5250309150514627221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_SWU.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40a60a96db9840beb75b1293e83b4bb
+      internalID: 2942279086188605646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ambulance_W.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 175
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62df402c891ed46fb8b7108ce7d8ecd4
+      internalID: 5698152924356439473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_E.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 146
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6673a7ef92feb42c781c73ec583a3f24
+      internalID: 2951382323632808049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N.png
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 203
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e46cf4724494f56b6d750542ea8531
+      internalID: 3510487044537013086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_NE.png
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b515c3e9ef5434ed9ac3d5ed2cd94ad5
+      internalID: -6603622728275179074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_NED.png
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 20
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20493afad792479887e5d539e482961
+      internalID: -3759530714858169676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_NEU.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437069c8a111a453f8ddf473cdd7cdab
+      internalID: -8605016212079920170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_NW.png
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 15
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30adc80fba6174407a90ce969f7857bd
+      internalID: 738048093975561632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_NWD.png
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 160
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeebc33e86bc446092dd9d878690714
+      internalID: -6757306828572124870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_NWU.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25a0efecd6734cc79cbd8e45edfe410
+      internalID: 6790886006536216554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_S.png
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 53
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c695c68370654cafad1fbacfb3196de
+      internalID: 6913591805577056116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_SE.png
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 79
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1436fd76f3d2d41969e4ce4fd993f325
+      internalID: 7702031118601921629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_SED.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 81
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f158443763ce409b996f15066bf1218
+      internalID: 2419526631511431280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_SEU.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967c620fb6829410a94965532fba0783
+      internalID: 2837313149785007458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_SW.png
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6321c71b2f748cf9f233a4e9d88645
+      internalID: -3757692580421161446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_SWD.png
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 11
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386c7d6cf753e42ffbdbb182e97de731
+      internalID: -948479923987190193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_SWU.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80923b61ba5f5424abbaf2d29bff7f55
+      internalID: -2515725335686830061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_W.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 204
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4240264e9d99e4125ac08cecc034f7d7
+      internalID: -4340366200806216038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_E.png
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 159
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377e39e22379f405ba430491a467a1f4
+      internalID: 8363326375609891206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_N.png
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 155
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1a4ee4e0e724739bce224ee3142319
+      internalID: 8996628398244623070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_NE.png
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 180
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0ffd91c23a0445db4d6bf5bb275bad
+      internalID: -5537233539527244015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_NED.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 181
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acace6b093fdc40d8815dcaedcf96f38
+      internalID: -2073461098845673401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_NEU.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 150
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e8d77ce0e274da68f562d87482220a
+      internalID: 5244528056435476098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_NW.png
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 229
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaddd58d58344d7f8edd289c678eda5
+      internalID: 8886089069998908012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_NWD.png
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 206
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5447cb716cf74a37ba54dbeeadc5846
+      internalID: 5352165981089956486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_NWU.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 51
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d21e83927e554e74b723ccc56603bb0
+      internalID: -6520207571618725942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_S.png
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 179
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dd96086a3024cffa59180fc01db138
+      internalID: -5825054207992032760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_SE.png
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 43
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec7e23a40c484eb8b4526b8f98af7da
+      internalID: 8890254440715672268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_SED.png
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5790a21398a724099a35b26fae655532
+      internalID: 3456935152702308262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_SEU.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 233
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06f382dc2f4843da839bfb9a471e9bf
+      internalID: -5892282988247484231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_SW.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 205
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37bcbb873d6c4efa8499422317e6eae
+      internalID: -6116352067920749445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_SWD.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 118
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23732aac67d91437fa5ee4185ea5f0b7
+      internalID: 7108931396835435823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_SWU.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 232
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4b84da324954eaa9c1b035ab56f700
+      internalID: 8608133791545906334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_W.png
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 206
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0349f20be65f4336a0ebf20df38b82c
+      internalID: 4266607700675749439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_E.png
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 183
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08254bbb6b03542fb95c065c1590f2c6
+      internalID: 1755561128042130229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_N.png
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 132
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18a8130b55934967b8e2d85133d96c3
+      internalID: 760849053577967114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_NE.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 9
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3933b43adb0a0410b9b98231fbde8e07
+      internalID: 7180524213139562905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_NED.png
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 83
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf8b9b4da4214b6bad654cb4d704c42
+      internalID: 1783150634329619200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_NEU.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 93
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9002655e9f81b4248bcdaf42a25e4c6a
+      internalID: -1762682380991731779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_NW.png
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 9
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e21c9cfe44941a79f97cb795def211
+      internalID: 6591408750610169491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_NWD.png
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 96
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e44a049817144b67ab658581d495d3a
+      internalID: 5247678270526623967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_NWU.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 63
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7588ab7953200496e9d57a39a5f73c33
+      internalID: -7749616215681557304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_S.png
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 109
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3fce96f0c874035aaaadda5f61575b
+      internalID: -6512306417001723330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_SE.png
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 70
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa516218508fe49398eee19150ff1262
+      internalID: 9175505662966493398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_SED.png
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 150
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d902375c37abb40139a8ef2a648dcca8
+      internalID: -7729141183897672071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_SEU.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 123
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a303dc0002794befb7446e50fb5abdd
+      internalID: 1772463204138784389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_SW.png
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 230
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ac8071784a6485fa6769fbcac255c5
+      internalID: -3860348456423298621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_SWD.png
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 128
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee478c02657d49f79121fe697379e3a
+      internalID: -9052081489793101820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_SWU.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 21
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9add93356455b4b38abe674e79120549
+      internalID: -6131279889329210113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_W.png
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 105
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d857495b62bf4aa1afd99ebe3207d24
+      internalID: -7349791229794520218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e73d9aa439c564ccba846e06fdb3644d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

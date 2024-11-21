@@ -1,0 +1,1094 @@
+fileFormatVersion: 2
+guid: 218c4c93bf66546059728d9e24a4bfdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5065978925602755360
+    second: trump_iddle_0
+  - first:
+      213: -4089999512916121940
+    second: trump_iddle_1
+  - first:
+      213: -2299805260070867633
+    second: trump_iddle_2
+  - first:
+      213: 5715326438083658745
+    second: trump_iddle_3
+  - first:
+      213: 3703389067047174131
+    second: trump_iddle_4
+  - first:
+      213: -7419900027819416126
+    second: trump_iddle_5
+  - first:
+      213: -3905768707305508059
+    second: trump_iddle_6
+  - first:
+      213: -1366660714501279129
+    second: trump_iddle_7
+  - first:
+      213: -9042771809461716773
+    second: trump_iddle_8
+  - first:
+      213: 2115652339463504020
+    second: trump_iddle_9
+  - first:
+      213: 6339106312588304551
+    second: trump_iddle_10
+  - first:
+      213: 5167648909221454284
+    second: trump_iddle_11
+  - first:
+      213: -1474350654287618132
+    second: trump_iddle_12
+  - first:
+      213: -3575143094189950013
+    second: trump_iddle_13
+  - first:
+      213: 5445336226834807214
+    second: trump_iddle_14
+  - first:
+      213: 317509956781187450
+    second: trump_iddle_15
+  - first:
+      213: 236111108967139693
+    second: trump_iddle_16
+  - first:
+      213: 3180137297588458792
+    second: trump_iddle_17
+  - first:
+      213: -6589446943193750569
+    second: trump_iddle_18
+  - first:
+      213: 7191989174895240242
+    second: trump_iddle_19
+  - first:
+      213: 6719097484463225953
+    second: trump_iddle_20
+  - first:
+      213: -2384167981250571313
+    second: trump_iddle_21
+  - first:
+      213: -2452018149342586603
+    second: trump_iddle_22
+  - first:
+      213: 8224571382517528518
+    second: trump_iddle_23
+  - first:
+      213: -1709682698231423004
+    second: trump_iddle_24
+  - first:
+      213: -485230161977232232
+    second: trump_iddle_25
+  - first:
+      213: 5977437332420717681
+    second: trump_iddle_26
+  - first:
+      213: -4286676669462621325
+    second: trump_iddle_27
+  - first:
+      213: -3907120689053247529
+    second: trump_iddle_28
+  - first:
+      213: -5920824964107750617
+    second: trump_iddle_29
+  - first:
+      213: -3555827791149128627
+    second: trump_iddle_30
+  - first:
+      213: -8538437951960771175
+    second: trump_iddle_31
+  - first:
+      213: 688793095802271964
+    second: trump_iddle_32
+  - first:
+      213: -2512716698216754586
+    second: trump_iddle_33
+  - first:
+      213: 5321792842522867691
+    second: trump_iddle_34
+  - first:
+      213: -8555654274034292489
+    second: trump_iddle_35
+  - first:
+      213: -817788134793647897
+    second: trump_iddle_36
+  - first:
+      213: 2973420007140691739
+    second: trump_iddle_37
+  - first:
+      213: 2360506039878408444
+    second: trump_iddle_38
+  - first:
+      213: 4623972858997875726
+    second: trump_iddle_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trump_iddle_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 797
+        width: 115
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aafeb4f30c104ff6a0897eb703ab282
+      internalID: -5065978925602755360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 797
+        width: 115
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2a52869046944098432537d7828551
+      internalID: -4089999512916121940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 797
+        width: 115
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7422834306696451ca4d91c01519f6cf
+      internalID: -2299805260070867633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_3
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 797
+        width: 115
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfc27ea729454c5db3468c54cfee0cc
+      internalID: 5715326438083658745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_4
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 797
+        width: 116
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045c13ab9b9e64b078f7d74d514d927c
+      internalID: 3703389067047174131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_5
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 797
+        width: 115
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ed1892b90d14aea8712ef74fa155b4
+      internalID: -7419900027819416126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_6
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 797
+        width: 115
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397ccf7369b2f460785b861177784896
+      internalID: -3905768707305508059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_7
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 797
+        width: 115
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5f7ec7091c34efb86c58be516905bb
+      internalID: -1366660714501279129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_8
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 797
+        width: 115
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f47a41520384ce6a069a0ee00a310f
+      internalID: -9042771809461716773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_9
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 797
+        width: 115
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c68ef7ff5f8d47b189b27de78239923
+      internalID: 2115652339463504020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 536
+        width: 128
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d568df5830244484a351de5ddf8c0db
+      internalID: 6339106312588304551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 536
+        width: 126
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cbbf0155b884a95ad9c34ed4e00b7a
+      internalID: 5167648909221454284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 536
+        width: 126
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9a12f5d15be49708373ff6995c7617
+      internalID: -1474350654287618132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_13
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 536
+        width: 127
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0407dc063b49d4ea2b5e5456859cb66e
+      internalID: -3575143094189950013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_14
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 536
+        width: 127
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e97bf3aeef8c4877a40e9f6547ab979
+      internalID: 5445336226834807214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_15
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 536
+        width: 129
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27af014b5e14c348360da154b570cb
+      internalID: 317509956781187450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_16
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 536
+        width: 129
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191001421f6d04e0fafeafac3e12462d
+      internalID: 236111108967139693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_17
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 536
+        width: 129
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c62d5eb753e4a0d923a9ba855730b4
+      internalID: 3180137297588458792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_18
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 536
+        width: 129
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f71c16381ce497fbf1e638ae72cac0
+      internalID: -6589446943193750569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_19
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 536
+        width: 128
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474c5bf8ae10e40b28b4d904b100bfb3
+      internalID: 7191989174895240242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 286
+        width: 117
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bbf6420fa2542389e48c99295caab1
+      internalID: 6719097484463225953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 286
+        width: 116
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dc054b4b7e246eb9819e5c08a5d23f
+      internalID: -2384167981250571313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 286
+        width: 115
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd9a18e8a45641a5b6099e0ccafd71f
+      internalID: -2452018149342586603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_23
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 286
+        width: 116
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49405f7f092b6412f980cac88bc55f64
+      internalID: 8224571382517528518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_24
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 286
+        width: 116
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b8dbd5a03d1445cb64474774160a32
+      internalID: -1709682698231423004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_25
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 286
+        width: 117
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cea6234bd3d24259b68e4487be09906
+      internalID: -485230161977232232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_26
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 286
+        width: 116
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3872b588cf6924ef2932b6c23b84197a
+      internalID: 5977437332420717681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_27
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 286
+        width: 116
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1924d24703ee748719f8e2faffdde29e
+      internalID: -4286676669462621325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_28
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 286
+        width: 116
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccdb216a2bb145a380f1f9427cd12b3
+      internalID: -3907120689053247529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_29
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 286
+        width: 116
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b09a52e43f27432b9137775b87cd9c3
+      internalID: -5920824964107750617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 23
+        width: 132
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53c1d2b8726e4da9aac9f40d6e47f64
+      internalID: -3555827791149128627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 23
+        width: 133
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450477ef290d04347b55093f0750e5e5
+      internalID: -8538437951960771175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_32
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 23
+        width: 133
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a3e2a252ae14868875b46a6c5c6e31
+      internalID: 688793095802271964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_33
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 23
+        width: 133
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b956dbb0be640cdb46c12e34dd8657
+      internalID: -2512716698216754586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_34
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 23
+        width: 133
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3830689c0d974216a57c6ddb089e575
+      internalID: 5321792842522867691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_35
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 23
+        width: 135
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec45fc42aa8944a24be6f7b065e229b9
+      internalID: -8555654274034292489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_36
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 23
+        width: 135
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42028b4d7bb484f7fb2ae274389905f1
+      internalID: -817788134793647897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_37
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 23
+        width: 135
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7d4a1e75e7b4502bdf0b1d018261d6
+      internalID: 2973420007140691739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_38
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 23
+        width: 135
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaa87e38a2194ece8b4770cccff4353
+      internalID: 2360506039878408444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trump_iddle_39
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 23
+        width: 134
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cd299b6b7ce46819ad1fc6bbe1be96
+      internalID: 4623972858997875726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4782a9b987bbb46de9a43edcc35b4c01
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
